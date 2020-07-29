@@ -1,0 +1,4 @@
+enum curState {
+  menu,
+  playing,
+}
